@@ -1,0 +1,11 @@
+.footer-contact li i {
+	grid-row: 1/4 !important;
+}
+
+.policy-block .inner{
+	grid-template-columns: 33% 33% 33% !important;
+}
+
+.policy-block{
+	text-align: left !important;
+}
