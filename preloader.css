@@ -20,6 +20,15 @@
     animation: big 5s;
 }
 
+
+/* .nivoSlider {
+    height: 80vh;
+}
+
+.nivoSlider img:nth-child(2) {
+    height: 692px;
+} */
+
 @keyframes big {
     0% {
         transform: translateX(-500px);
